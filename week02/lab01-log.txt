@@ -1,0 +1,16 @@
+  272  ls 
+  273  ls -h
+  274  man man
+  275  q
+  276  cd cod
+  277  cd coding-cafe/cd 
+  278  cd
+  279  cd coding-cafe/README.md
+  280  ls -h history
+  281  history
+  282  python3
+  283  history
+  284  history> week02/lab01-log.txt
+  285  history > week02/lab01-log.txt
+  286  pwd
+  287  cd coding-cafe
